@@ -1,0 +1,16 @@
+## .NET / Visual Studio / VS Code
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.log
+TestResults/
+*.nupkg
+.idea/
+.DS_Store
+Thumbs.db
